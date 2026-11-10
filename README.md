@@ -8,8 +8,8 @@
 ## Aluno
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
-|  |  |  |
+|Geniel Souza de Freitas | 2422670 | GnielSo |
+|Vitoria de Oliveira Carvalho | 2416734 | VitoriaCar-ind |
 
 ## O cenário
 
